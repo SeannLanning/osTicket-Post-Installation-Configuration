@@ -22,8 +22,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Admin Privileges 
+- Configure Access Roles for Level II Support
+- Setup new agents with specific accessibility based on job requirements
+- Configure SLAs (Service Level Agreements) for various ticket priorities
+
+
+![image](https://github.com/SeannLanning/osTicket-Post-Installation-Configuration/assets/70045086/18c12649-d182-44ac-8dfe-5ea92e01fafa)
+
+![image](https://github.com/SeannLanning/osTicket-Post-Installation-Configuration/assets/70045086/bdc29c65-ec44-4ead-b9cf-8856d856d777)
+
+![image](https://github.com/SeannLanning/osTicket-Post-Installation-Configuration/assets/70045086/cfd7df33-560e-462b-9641-4dad99053d91)
